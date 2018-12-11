@@ -1,2 +1,2 @@
 # rntm-starter
-RN &amp; TS &amp; MobX stater kit
+RN & TS & MobX starter kit
